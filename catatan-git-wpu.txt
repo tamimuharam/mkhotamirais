@@ -24,3 +24,6 @@ remote  : sumber yang memiliki repo (github/gitlab dll)
 clone   : mengambil repo dari remote
 push    : mengirimkan commit ke repo
 pull    : mengambil commit dari repo
+
+Pertemuan2: setidaknya kamu punya dua akun untuk praktek kolaborasi
+Perubahan lain: nanti lagi
