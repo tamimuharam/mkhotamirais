@@ -1,0 +1,26 @@
+Git salah satu VCS (version control system): seialin Git ada lagi [subversion, mercurial, cvs]
+VCS / revision control system / source code management adalah sistem yang mengelola perubahan dari dokumen digital.
+Problem: revisi skripsi, kolaborasi projek, sharing (vcs mengelola semua itu dengan baik)
+VCS: sistem yang menyimpan rekaman/snapshot perubahan pada source code; memungkinkan kolaborasi dengan baik; memungkinkan kembali ke keadaan sebelum perubahan (checkout)
+
+GIT: sebuah vcs terdistribusi untuk mengelola perubahan file di dalam folder (repo/repository)
+Git menyimpan history perubahannya dengan serangkaian commit
+Branch dan Merge
+
+GITHUB: layanan cloud untuk menyimpan dan mengelola project/repo git (instagramnya para programmer)
+layanan selain GITHUB adalah Bitbucket, GitLab
+Push dan Pull request commit, syaratnya jadikan sumber jadi remote lalu clone.
+
+RANGKUMAN:
+Version Control System: Sistem yang menyimpan dan mengelola rekaman perubahan dari source code
+Git     : salah satu software yang bisa melakukan vcs
+GitHub  : website/layanan untuk menelola project Git
+Repo/repository: folder project
+commit rekaman/snapshot dari repo
+hash    : penanda unik pada sebuah commit
+checkout: berpindah ke sebuah commit
+merge   : menggabungkan branch
+remote  : sumber yang memiliki repo (github/gitlab dll)
+clone   : mengambil repo dari remote
+push    : mengirimkan commit ke repo
+pull    : mengambil commit dari repo
